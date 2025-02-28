@@ -27,6 +27,11 @@ A simple TypeScript project that demonstrates the basic setup and configuration.
   npm start
   ```
 
+- **Build and Run the compiled JavaScript**:
+  ```
+  npm run build && npm start
+  ```
+
 - **Run with ts-node (without compiling)**:
   ```
   npm run dev
