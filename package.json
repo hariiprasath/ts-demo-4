@@ -1,0 +1,22 @@
+{
+  "name": "ts-demo-4-admin",
+  "version": "1.0.0",
+  "description": "A simple TypeScript Hello World project",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": [
+    "typescript",
+    "hello-world"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+} 
