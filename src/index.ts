@@ -31,11 +31,11 @@ console.log(myname)
 let myheight:number = 170
 console.log(myheight)
 
-let myshoesize = "hari"
+let myshoesize = 42
 console.log(myshoesize)
 
 // myshoesize = 20
 // console.log(myshoesize)
 
-myshoesize = "hariprasath"
-console.log(myshoesize)
+// myshoesize = "hariprasath"
+// console.log(myshoesize)
